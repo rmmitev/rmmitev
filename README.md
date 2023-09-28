@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Rado.
 - 👀 I’m interested in Coding & Networking.
-- 🌱 I’m currently learning Python, JS and etc.
+- 🌱 I'm currently learning Python, JS and many more cool things.
 - ✨ For the things we have to learn before we can do them, we learn by doing them. ― Aristotle 
 - 📫 No info about reachability.
 
